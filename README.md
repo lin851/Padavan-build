@@ -1,4 +1,5 @@
 /* Xiaomi Mi 3A */
+
 #define BOARD_PID		"MI-3A"
 #define BOARD_NAME		"MI-3A"
 #define BOARD_DESC		"Xiaomi Mi 3A Wireless Router"
